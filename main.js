@@ -15,6 +15,7 @@ next.addEventListener('click', ()=>{
     update()
 })
 
+
 prev.addEventListener('click', () =>{
     currentActive--
 
